@@ -3,7 +3,7 @@ Predicting Insolvency of Insurance Companies in Egyptian Market Using Bagging an
 
 This paper was published in IEEE Access on November 10, 2022. You can access the paper through the following links:
 
-DOI: 10.1109/ACCESS.2022.3210032
+DOI:  https://doi.org/10.1109/ACCESS.2022.3210032
 
 If you would like to cite this paper in your research, please use the following BibTeX format:
 
